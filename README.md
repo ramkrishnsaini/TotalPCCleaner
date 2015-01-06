@@ -1,6 +1,6 @@
 TotalPCCleaner
 ==============
 
-This is demo application created from R&D purpose.
+This is demo application created for R&D purpose only. This does not belong to any organization.
 
 
