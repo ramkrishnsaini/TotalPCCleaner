@@ -1,0 +1,92 @@
+﻿<Controls:MetroWindow x:Class="PC_Cleaner.RepairNowVW"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="Repair Errors" HorizontalAlignment="Center"  VerticalAlignment="Top"  WindowStartupLocation="CenterScreen" ShowTitleBar="False"  Height="600" Width="500" ShowCloseButton="False" ShowMaxRestoreButton="False" ShowMinButton="False">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FFD5FBFF" Offset="0"/>
+                <GradientStop Color="White" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Top" Orientation="Horizontal" Panel.ZIndex="10">
+            <Image Source="Assets/Img/pcCleanerIcon.png" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" Margin="10,5"/>
+            <Border BorderThickness="1,0,0,0" BorderBrush="Gray" Height="50" Margin="10,5"/>
+            <TextBlock Text="Total PC Cleaner" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="18" FontWeight="SemiBold"/>
+        </StackPanel>
+
+
+        <Grid x:Name="grdInfo" Grid.Row="1" Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Left" VerticalAlignment="Top" Text="Continue Your PC Repair and Cleaning Process:" Margin="10,5"/>
+            <TextBlock Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Left" VerticalAlignment="Top" Text="Talk to computer expert Now." Margin="10,5"/>
+            <TextBlock Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Left" VerticalAlignment="Top" Text="USA Toll Free No:" Margin="10,10,5,5" FontWeight="Bold" FontSize="18"/>
+            <TextBlock Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Left" VerticalAlignment="Top" Text="1-877-776-3645" Margin="10,5" FontWeight="Bold" FontSize="18"/>
+
+            <TextBlock Grid.Row="4" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Top" Text="Status" Margin="10,5" Foreground="Red" FontWeight="Bold" FontSize="14"/>
+            <TextBlock Grid.Row="4" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Text="Poor" Margin="10,5" Foreground="Red" FontWeight="Bold" FontSize="14"/>
+            
+            <TextBlock Grid.Row="5" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Top" Text="Error Result" Margin="10,5" Foreground="Red" FontWeight="Bold" FontSize="14"/>
+            <TextBlock x:Name="txtErrorResult" Grid.Row="5" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,5" Foreground="Red" FontWeight="Bold" FontSize="14"/>
+
+            <TextBlock Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Left" VerticalAlignment="Top" Text="Browser found corrupted" Margin="10,5" Foreground="Red" FontWeight="Bold" FontSize="14"/>
+            <TextBlock Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Left" VerticalAlignment="Top" Text="Need urgent maintanance" Margin="10,5" Foreground="Red" FontWeight="Bold" FontSize="14"/>
+            
+            <TextBlock Grid.Row="8" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Top" Text="With the Trial Version" Margin="10,5" FontWeight="Bold" FontSize="14"/>
+            <TextBlock x:Name="txtwithTheTrialPeriodResult" Grid.Row="8" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,5" FontWeight="Bold" FontSize="14" TextWrapping="Wrap"/>
+
+            <TextBlock Grid.Row="9" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Top" Text="Remaining Errors" Margin="10,5" FontWeight="Bold" FontSize="14" Foreground="Red" />
+            <TextBlock Grid.Row="9" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Text="Continue Your PC Repair and Cleaning Process:" Margin="10,5" FontWeight="Bold" FontSize="14" Foreground="Maroon" TextWrapping="Wrap"/>
+            <TextBlock Grid.Row="10" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Text="Call Now" Margin="10,5" FontWeight="Bold" FontSize="14" Foreground="Maroon"/>
+            <TextBlock Grid.Row="11" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Text="USA Toll Free No:" Margin="10,5" FontWeight="Bold" FontSize="14" Foreground="Maroon"/>
+            <TextBlock Grid.Row="12" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Text="1-877-776-3645" Margin="10,5" FontWeight="Bold" FontSize="14" Foreground="Maroon"/>
+            <TextBlock Grid.Row="13" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Left" VerticalAlignment="Top" Text="*Note - If the status shows 'Poor' please call on toll-free to get free dignosis by expert." Margin="10,5" FontWeight="Bold" FontSize="14" Foreground="Maroon" TextWrapping="Wrap"/>
+
+        </Grid>
+
+        <StackPanel x:Name="spProgressRepair" Orientation="Vertical" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center" Visibility="Collapsed" Margin="20,5">
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <TextBlock HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5" Text="Error Result:" Foreground="Red" FontWeight="Bold" FontSize="14"/>
+                <TextBlock x:Name="txtErrorfound" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="50,5,5,5" Foreground="Red" FontWeight="Bold" FontSize="14"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <TextBlock HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5" Text="Error Fixed:" Foreground="Green" FontWeight="Bold" FontSize="14"/>
+                <TextBlock x:Name="txtErrorFixed" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="50,5,5,5"  Foreground="Green" FontWeight="Bold" FontSize="14"/>
+            </StackPanel>
+            <TextBlock x:Name="txtErrorsScanProgress" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5"/>
+            <ProgressBar x:Name="ProgressBar1" Height="20" Margin="5,5,20,5"   HorizontalAlignment="Left"  VerticalAlignment="Top" Width="400"/>
+        </StackPanel>
+
+        <Border Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" BorderBrush="LightBlue" BorderThickness="3" CornerRadius="5" Margin="10"/>
+
+        <Button x:Name="btnRepair" Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,5,5,10" Content="Repair Now" Padding="5" Width="150" Click="btnRepair_Click"/>
+        <Button x:Name="btnClose" Grid.Row="2" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="20,5,5,10" Content="Close" Padding="5" Width="150" Click="btnClose_Click"/>
+
+        <Border BorderBrush="Black" BorderThickness="1" CornerRadius="10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.RowSpan="5" Grid.ColumnSpan="5"/>
+    </Grid>
+</Controls:MetroWindow>

@@ -1,0 +1,77 @@
+﻿<UserControl x:Class="PC_Cleaner.ScanErrorVW"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d">
+    <Grid x:Name="layourRootScanError" Background="White" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Image Source="Assets/Img/file_scanner_icon.jpg" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,5" Grid.RowSpan="3"/>
+            <TextBlock Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="10,5" FontWeight="Bold" FontSize="24" Text="Date of Last Error Scan:"/>
+            <StackPanel Grid.Column="2" Orientation="Horizontal">
+                <Image Source="Assets/Img/error.jpg" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="20" Height="20" Margin="5"/>
+                <TextBlock x:Name="txtErrorFound" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="5" Foreground="Red" FontWeight="Bold" FontSize="18" Text="Errors Found" />
+            </StackPanel>
+            <StackPanel Grid.Row="1" Grid.Column="2" Orientation="Horizontal">
+                <Image Source="Assets/Img/ok.png" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5" Width="20" Height="20"/>
+                <TextBlock x:Name="txtErrorFixed" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5" Foreground="Green" />
+            </StackPanel>
+            <TextBlock x:Name="txtLasScan" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5" Foreground="Red" FontSize="18"/>
+            <TextBlock x:Name="txtLasScanStatus" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5" Foreground="Green" FontSize="18"/>
+
+
+            <TextBlock x:Name="txtErrorsScanProgress" Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5"/>
+            <ProgressBar x:Name="ProgressBar1"  Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" Height="20" Margin="5,5,20,5"   HorizontalAlignment="Stretch"  VerticalAlignment="Top"/>
+
+            <Border Grid.ColumnSpan="5" Grid.RowSpan="5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" BorderBrush="Black" BorderThickness=".5" Margin="5,5,5,0"/>
+        </Grid>
+        <Grid Grid.Row="1"  >
+            <ListBox x:Name="lstbxErrorsType" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5" ItemsSource="{Binding lstErrorTypes, Mode=TwoWay}">
+                <ListBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <UniformGrid Columns="2"/>
+                    </ItemsPanelTemplate>
+                </ListBox.ItemsPanel>
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="{Binding icon}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="15" Height="15" Margin="2"/>
+                            <Image Source="Assets/Img/error.jpg" HorizontalAlignment="Left" VerticalAlignment="Top" Width="15" Height="15" Visibility="{Binding erroIconVisiblity, Mode=TwoWay}" Margin="2"/>
+                            <Image Source="Assets/Img/ok.png" HorizontalAlignment="Left" VerticalAlignment="Top" Width="15" Height="15"  Visibility="{Binding okIconVisiblity, Mode=TwoWay}" Margin="2"/>
+                            <CheckBox IsChecked="{Binding ErrorChecked, Mode=TwoWay}" Visibility="{Binding DataContext.visibilityDuringScan,ElementName=layourRootScanError, Mode=TwoWay}" Margin="2"/>
+                            <TextBlock Text="{Binding ErrorTypeName}" Margin="2" Foreground="{Binding FontColor, Mode=TwoWay}"/>
+                            <TextBlock Text="(" Foreground="{Binding FontColor, Mode=TwoWay}"/>
+                            <TextBlock Text="{Binding ErrorCount, Mode=TwoWay}" Margin="2" Foreground="{Binding FontColor, Mode=TwoWay}"/>
+                            <TextBlock Text=")" Foreground="{Binding FontColor, Mode=TwoWay}"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <Border Grid.ColumnSpan="5" Grid.RowSpan="5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" BorderBrush="Black" BorderThickness=".5,0,.5,.5" Margin="5,0"/>
+        </Grid>
+        <CheckBox x:Name="chkbxSelectAll" Grid.Row="2"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="25,10" IsChecked="True" Content="Select / Clear all categories"/>
+        <Button x:Name="btnFindError" Grid.Row="2" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="10" Content="Find Errors" Style="{x:Null}" Padding="5" Click="btnFindError_Click"/>
+
+        <Button x:Name="btnReset" Grid.Row="3" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10" Content="Reset" Style="{x:Null}" Padding="5" Visibility="Collapsed" Click="btnReset_Click"/>
+        <Button x:Name="btnRepaierNow" Grid.Row="3" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="10" Content="Repair Now" Style="{x:Null}" Padding="5" Visibility="Collapsed" Click="btnRepaierNow_Click"/>
+    </Grid>
+</UserControl>

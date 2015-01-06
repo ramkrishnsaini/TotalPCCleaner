@@ -1,0 +1,36 @@
+﻿<Controls:MetroWindow  x:Class="PC_Cleaner.wndStartupManager"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                       xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Startup Manager" Height="500" Width="700" ShowMinButton="False" ShowMaxRestoreButton="False" ShowInTaskbar="False" WindowStartupLocation="CenterScreen">
+
+    <Grid x:Name="layoutRootStartupManager">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="80"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="110"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Image Source="Assets/Img/lockstart_session.png" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,5" Width="100"/>
+        <TextBlock Text="The startup manager, allows you to control what programs to auto-launch when you turn on or logon to your computer. Startup Manager ensures a fast PC startup process. Select each program to auto-launch at startup. To stop a program from auto-launching, uncheck the program, then click 'Save'." Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5" TextWrapping="Wrap"/>
+
+        <DataGrid x:Name="dgStartupManager" ItemsSource="{Binding lstBackupFile,Mode=TwoWay}" Grid.Row="1" Grid.ColumnSpan="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5" AutoGenerateColumns="False" HorizontalScrollBarVisibility="Auto" CanUserAddRows="False">
+            <DataGrid.Style>
+                <Style TargetType="DataGrid">
+                    <Setter Property="AlternatingRowBackground" Value="#FFE6F9FF"/>
+                </Style>
+            </DataGrid.Style>
+            <DataGrid.Columns>
+                <DataGridCheckBoxColumn Binding="{Binding fileChecked, Mode=TwoWay}" Width="50"/>
+                <DataGridTextColumn Header="Application" Width="150" Binding="{Binding fileName}" IsReadOnly="True"/>
+                <DataGridTextColumn Header="File Location" Width="Auto" Binding="{Binding filePath}" IsReadOnly="True"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="5" Grid.Row="2" Grid.ColumnSpan="2">
+            <Button x:Name="btnSave" Content="Save" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5" Click="btnSave_Click"/>
+        </StackPanel>
+    </Grid>
+</Controls:MetroWindow>

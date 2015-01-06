@@ -1,0 +1,50 @@
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Release\PC Cleaner.exe.config
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Release\PC Cleaner.exe.manifest
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Release\PC Cleaner.application
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Release\PC Cleaner.exe
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Release\PC Cleaner.pdb
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Release\MahApps.Metro.dll
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Release\System.Windows.Interactivity.dll
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Release\MahApps.Metro.pdb
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Release\System.Windows.Interactivity.xml
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Release\de\System.Windows.Interactivity.resources.dll
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Release\en\System.Windows.Interactivity.resources.dll
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Release\es\System.Windows.Interactivity.resources.dll
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Release\fr\System.Windows.Interactivity.resources.dll
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Release\it\System.Windows.Interactivity.resources.dll
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Release\ja\System.Windows.Interactivity.resources.dll
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Release\ko\System.Windows.Interactivity.resources.dll
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\NotificationWindow.baml
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\RepairNowVW.baml
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\ScanErrorVW.baml
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\StaticsVW.baml
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\App.baml
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\MainWindow.g.cs
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\NotificationWindow.g.cs
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\RepairNowVW.g.cs
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\ScanErrorVW.g.cs
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\StaticsVW.g.cs
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\App.g.cs
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\GeneratedInternalTypeHelper.g.cs
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\PC Cleaner_MarkupCompile.cache
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\PC Cleaner_MarkupCompile.lref
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\MainWindow.baml
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\PC Cleaner.g.resources
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\PC_Cleaner.Properties.Resources.resources
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\PC Cleaner.csproj.GenerateResource.Cache
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\PC Cleaner.exe.manifest
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\PC Cleaner.application
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\PC Cleaner.exe
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\PC Cleaner.pdb
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\PC Cleaner.csprojResolveAssemblyReference.cache
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\usrcntrlSettings.baml
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\usrcntrlSettings.g.cs
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\Assets\Style.baml
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\wndRegisterNow.baml
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\wndRegisterNow.g.cs
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\wndUndoRepair.baml
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\wndUndoRepair.g.cs
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\wndStartupManager.baml
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Release\wndStartupManager.g.cs

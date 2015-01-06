@@ -1,0 +1,155 @@
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\bin\Debug\PC Cleaner.exe.config
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.csprojResolveAssemblyReference.cache
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\obj\Debug\App.g.cs
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner_MarkupCompile.cache
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\bin\Debug\PC Cleaner.exe
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\bin\Debug\PC Cleaner.pdb
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\bin\Debug\MahApps.Metro.dll
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\bin\Debug\MahApps.Metro.pdb
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\obj\Debug\MainWindow.baml
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\obj\Debug\App.baml
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\obj\Debug\MainWindow.g.cs
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.g.resources
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\obj\Debug\PC_Cleaner.Properties.Resources.resources
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.csproj.GenerateResource.Cache
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.exe
+C:\Users\Ramkrishn Saini\Desktop\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.pdb
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\PC Cleaner.exe.config
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.exe
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.pdb
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\PC Cleaner.exe
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\PC Cleaner.pdb
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\MahApps.Metro.dll
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\System.Windows.Interactivity.dll
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\MahApps.Metro.pdb
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\System.Windows.Interactivity.xml
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.csprojResolveAssemblyReference.cache
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\MainWindow.baml
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\ScanErrorVW.baml
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\App.baml
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\MainWindow.g.cs
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\ScanErrorVW.g.cs
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\App.g.cs
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner_MarkupCompile.cache
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.g.resources
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\PC_Cleaner.Properties.Resources.resources
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.csproj.GenerateResource.Cache
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner_MarkupCompile.lref
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\RepairNowVW.baml
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\RepairNowVW.g.cs
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\StaticsVW.baml
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\StaticsVW.g.cs
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\NotificationWindow.baml
+E:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\NotificationWindow.g.cs
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Debug\PC Cleaner.exe.config
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Debug\PC Cleaner.exe.manifest
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Debug\PC Cleaner.application
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Debug\PC Cleaner.exe
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Debug\PC Cleaner.pdb
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Debug\MahApps.Metro.dll
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Debug\System.Windows.Interactivity.dll
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Debug\MahApps.Metro.pdb
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Debug\System.Windows.Interactivity.xml
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Debug\de\System.Windows.Interactivity.resources.dll
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Debug\en\System.Windows.Interactivity.resources.dll
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Debug\es\System.Windows.Interactivity.resources.dll
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Debug\it\System.Windows.Interactivity.resources.dll
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+F:\Test Code\PC Cleaner\PC Cleaner\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.csprojResolveAssemblyReference.cache
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\NotificationWindow.baml
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\RepairNowVW.baml
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\ScanErrorVW.baml
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\StaticsVW.baml
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\App.baml
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\MainWindow.g.cs
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\NotificationWindow.g.cs
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\RepairNowVW.g.cs
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\ScanErrorVW.g.cs
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\StaticsVW.g.cs
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\App.g.cs
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner_MarkupCompile.cache
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner_MarkupCompile.lref
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\MainWindow.baml
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.g.resources
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\PC_Cleaner.Properties.Resources.resources
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.csproj.GenerateResource.Cache
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.exe.manifest
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.application
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.exe
+F:\Test Code\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.pdb
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\PC Cleaner.exe.config
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.exe
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.pdb
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\PC Cleaner.exe.manifest
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\PC Cleaner.application
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\PC Cleaner.exe
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\PC Cleaner.pdb
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\MahApps.Metro.dll
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\System.Windows.Interactivity.dll
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\MahApps.Metro.pdb
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\System.Windows.Interactivity.xml
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\de\System.Windows.Interactivity.resources.dll
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\en\System.Windows.Interactivity.resources.dll
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\es\System.Windows.Interactivity.resources.dll
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\it\System.Windows.Interactivity.resources.dll
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.csprojResolveAssemblyReference.cache
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\Assets\Style.baml
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\NotificationWindow.baml
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\RepairNowVW.baml
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\ScanErrorVW.baml
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\StaticsVW.baml
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\usrcntrlSettings.baml
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\wndRegisterNow.baml
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\wndStartupManager.baml
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\wndUndoRepair.baml
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\App.baml
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\MainWindow.g.cs
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\NotificationWindow.g.cs
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\RepairNowVW.g.cs
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\ScanErrorVW.g.cs
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\StaticsVW.g.cs
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\usrcntrlSettings.g.cs
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\wndRegisterNow.g.cs
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\wndStartupManager.g.cs
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\wndUndoRepair.g.cs
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\App.g.cs
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner_MarkupCompile.cache
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner_MarkupCompile.lref
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\MainWindow.baml
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.g.resources
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\PC_Cleaner.Properties.Resources.resources
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.csproj.GenerateResource.Cache
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.exe.manifest
+F:\Ramkrishn Saini\rk\Muzib\PC Cleaner\PC Cleaner\obj\Debug\PC Cleaner.application
